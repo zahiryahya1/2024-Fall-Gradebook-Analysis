@@ -47,11 +47,38 @@ Thee data used for this analysis consists of 70 students in Algebra 2. Data was 
 
 ## Analysis Insight Deep-Dive
 
-### 1
+### 1. Group Quiz:
+    
+    [average group quioz score]
+    above is a scatter plot where each point respresents a student. 
+    - Comparing any group quiz and its corresponding unit test scores, you will see that there is no corrolation. I belive this is the case because students may get help or answers from their group members without knowing how to solve the problem. An observation I have noticed amungs kids is many students are looking to just complete the work and are not satisfied with understanding the solution. 
 
-### 2
+### 2. Missing Assignments:
+    
+    [insert graph (average)]
+    above is a scatter plot where each point represents a studnet. 
+    - You maay have notice that there is a weak corrolation between the number of missing assignments and overall grade. It makes sense that students who practice will do well. However there are instances of students who complete practice assignments but under perform on the tests. There are 2 reasons that can explain this:
+        - First, students can be getting a lot of support from a tutor or friends. This is not necessarily a bad thing, however some students dont know the difference between getting help and getting the steps by step solutions. 
+        - This leads to the Second reason, students copying unfaithfully. Again getting help or looking at the solutions can be a tool if used correctly but most students dont have the time, patients, or want to study the solution. 
+
+### 3. Retake Analysis:
+    
+    [insert pie chart (all thogether)]
+    above is a pie chart that divides studnets into retake categories from not retaking to doing a lot better. 
+    - As you can see, just under 50% of students who retook scored over 5% better. 
+
+    [insert bar chart: with and without retake]
+    - Final grade beofre and after retake. 
+
+    - Final grade with lowest test score dropped.
+    [inseert image comparing avg with and without retake and dropped]
 
 
+### 4. Finals 
+    [bar or pie chart calculating delta between grade before and after]
+    finals score vs average test score. What is the delta? (did students do better on the final then usual?)
+    test + final % score vs practice % score.  What is the delta? (did practice assignments hurt grade?)
+    
 
 ## Recommendations
 
