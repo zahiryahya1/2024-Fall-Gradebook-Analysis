@@ -67,8 +67,16 @@ above is a scatter plot where each point represents a studnet.
     
 [insert pie chart (all thogether)]
 
-above is a pie chart that divides studnets into retake categories from not retaking to doing a lot better. 
-- As you can see, just under 50% of students who retook scored over 5% better. 
+above is a pie chart that looks at all retake scores and organizes scores based on level of improvement. In total, there were 70 retakes with 148 non retakes. 
+- As you can see, just under 50% of students who retook scored over 5% better.
+A large percent of students did not improve. In order to retake, students must complete test corrections and 1 additional assignment of their choice. These requiremnts discurage non serious students from retake and also helps students learn from their mistakes and study a bit. Unfortinatly, not all students who retake are learning from their mistake. Students lack study, review, and self analysis skills. Unfortinatly there is not much time in the classroom for these, but something teachers should consider.
+  
+Below is a table that further divides the retake scrores by unit.
+
+[insert markdown talbe for each unit. ]
+
+
+
 
 [insert bar chart: with and without retake]
 - Final grade beofre and after retake. 
@@ -78,11 +86,12 @@ above is a pie chart that divides studnets into retake categories from not retak
 
 
 ### 4. Finals 
-[bar or pie chart calculating delta between grade before and after]
+- finals score vs average test score. What is the delta? (did students do better on the final then usual?)
+- test + final % score vs final grade.  What is the delta? (did practice assignments hurt grade?)
+- practice hurt 5 students in particular where they dropped form a - to a plus.
+- practrice helped 10 students go from a - to a plus. 
 
-finals score vs average test score. What is the delta? (did students do better on the final then usual?)
-test + final % score vs practice % score.  What is the delta? (did practice assignments hurt grade?)
-    
+insert mardown table: practice helped 45 students, hurt 25 students. 
 
 ## Recommendations
 
