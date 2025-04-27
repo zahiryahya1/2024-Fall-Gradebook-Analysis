@@ -39,9 +39,9 @@ Thee data used for this analysis consists of 70 students in Algebra 2. Data was 
 #### Data cleaning and processing were performed using Excel and Python:
 1. I used excel to clean the data. This was extreamly time consuming and overall, the data was not not "flexable" meaning I couldnt easily use different technologies. I used helper rows for calculations. It got the job done...
 2. Next I wanted to use power BI but the current data structure was not compatible. With Python, I normalized the structure into 3 tables.
-  - Assignment points Table: Assignment name, unit, category, points possible.
-  - Student Data Table: Student ID, age, grade level, and course.
-  - Assignemnt Data Table: Student ID, assignment name, score.
+    - Assignment points Table: Assignment name, unit, category, points possible.
+    - Student Data Table: Student ID, age, grade level, and course.
+    - Assignemnt Data Table: Student ID, assignment name, score.
   This restructuring allowed for easier extraction of insight and trends. 
 
 
