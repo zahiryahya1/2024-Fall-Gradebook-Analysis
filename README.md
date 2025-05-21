@@ -78,14 +78,16 @@ Below is a table that further divides the retake scrores by unit.
 
 
 
-- Final grade beofre and after retake. 
+- Final grade before and after retake. 
+
 ![alt text](/assets/images/without_vs_with_retake_bar.jpg)
 
+Comparing students final grades before and after retakes, you can see that students grades have increased. Some more than others. 
 
+  Average Final Grade Excluding Retakes: 74.22%	
+  Average Final Grade Including Retakes: 75.32%
 
-- Final grade with lowest test score dropped.
-![alt text](/assets/images/)
-
+Retakes Improved the class average by 1%
 
 ### 4. Finals 
 - finals score vs average test score. What is the delta? (did students do better on the final then usual?)
