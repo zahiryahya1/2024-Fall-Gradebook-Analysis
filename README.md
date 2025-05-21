@@ -94,13 +94,22 @@ Comparing students final grades before and after retakes, you can see that stude
 
 Retakes Improved the class average by 1%
 
+
 ### 4. Finals 
 - finals score vs average test score. What is the delta? (did students do better on the final then usual?)
-- test + final % score vs final grade.  What is the delta? (did practice assignments hurt grade?)
-- practice hurt 5 students in particular where they dropped form a - to a plus.
-- practrice helped 10 students go from a - to a plus. 
+- Number of Students who scored better on the final: 14
+- Number of students who scored worse on the final: 50
+- Number of students who scored worse on the final: 6
 
-insert mardown table: practice helped 45 students, hurt 25 students. 
+The average student did 5% worse on the final then average test score. Students had 7 in class review days to prepare for the finals. My observation is most students were not motivated to do better and other students utilized class time to work on other subjects. 
+
+The Goal of practice assignments are to insentivise students to perform extra work so they can suceed on the exams. Practice is worth 10% of students grades. 
+
+In total, 45 students students benifited and 25 students did not. However, practice has significantly impacted 15 students grades. 
+
+  - 5 students had decreased letter grade from a - to a +.
+  - 10 students had increased letter grade from a + to a -. 
+
 
 ## Recommendations
 
