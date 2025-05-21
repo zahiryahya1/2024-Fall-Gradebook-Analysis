@@ -121,11 +121,11 @@ In total, 45 students students benifited and 25 students did not. However, pract
 - excel formulas are correct
 
 ### Questions:
-- Do students have time outside of school to complete assignments? 
-- How many low achieving students are on their phones during class?
+- Do students have time outside of school to complete assignments and study? 
+- How many low scoring students are on their phones during class?
 - what grade did students get in their previous math class?
 - How many other classes are students struggling in? 
-- 
+
 
 
 ---
