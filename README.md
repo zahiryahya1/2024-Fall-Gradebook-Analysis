@@ -30,33 +30,34 @@ This analysis reveals the following:
 The data structure was refined mid-project, which significantly improved the quality and clarity of the analysis.
 
 ## Data Source
-Thee data used for this analysis consists of 70 students in Algebra 2. Data was cleaned and reformatted to the following: 
+The data used for this analysis consists of 70 students in Algebra 2. Data was cleaned and reformatted to the following: 
 - student ID (fake)
 - Gender
 - Grade
 - Assignment scores
 
 #### Data cleaning and processing were performed using Excel and Python:
-1. I used excel to clean the data. This was extreamly time consuming and overall, the data was not not "flexable" meaning I couldnt easily use different technologies. I used helper rows for calculations. It got the job done...
-2. Next I wanted to use power BI but the current data structure was not compatible. With Python, I normalized the structure into 3 tables.
+1. I used excel to clean the data. This was very time consuming and overall, the data was not "flexable" meaning it only worked for excel and not compatible with other tech tools. I applied a strategy of using a helper rows to perform calculations. It got the job done but again the process seemed messy. 
+
+2. After my initial analysis, I wanted to use power BI to perform further analysis but the data structure was not compatible. I wrote a Python script to normalized the structure into 3 tables:
     - Assignment points Table: Assignment name, unit, category, points possible.
     - Student Data Table: Student ID, age, grade level, and course.
     - Assignemnt Data Table: Student ID, assignment name, score.
-  This restructuring allowed for easier extraction of insight and trends. 
+  This restructuring allowed for easier extraction of insight and trends via power BI. It also overall made the data easier to analyze. 
 
 
 ## Analysis Insight Deep-Dive
 
 ### 1. Group Quiz:
     
-[average group quioz score]
+![alt text](/assets/images/avg_quiz_vs_test.jpg)
 
 above is a scatter plot where each point respresents a student. 
 - Comparing any group quiz and its corresponding unit test scores, you will see that there is no corrolation. I belive this is the case because students may get help or answers from their group members without knowing how to solve the problem. An observation I have noticed amungs kids is many students are looking to just complete the work and are not satisfied with understanding the solution. 
 
 ### 2. Missing Assignments:
     
-[insert graph (average)]
+![alt text](/assets/images/missing_assignment_vs_grade.jpg)
 
 above is a scatter plot where each point represents a studnet. 
  - You maay have notice that there is a weak corrolation between the number of missing assignments and overall grade. It makes sense that students who practice will do well. However there are instances of students who complete practice assignments but under perform on the tests. There are 2 reasons that can explain this:
@@ -65,7 +66,7 @@ above is a scatter plot where each point represents a studnet.
 
 ### 3. Retake Analysis:
     
-[insert pie chart (all thogether)]
+![alt text](/assets/images/retake_data_pie_chart.jpg)
 
 above is a pie chart that looks at all retake scores and organizes scores based on level of improvement. In total, there were 70 retakes with 148 non retakes. 
 - As you can see, just under 50% of students who retook scored over 5% better.
@@ -77,12 +78,13 @@ Below is a table that further divides the retake scrores by unit.
 
 
 
-
-[insert bar chart: with and without retake]
 - Final grade beofre and after retake. 
+![alt text](/assets/images/without_vs_with_retake_bar.jpg)
+
+
 
 - Final grade with lowest test score dropped.
-[inseert image comparing avg with and without retake and dropped]
+![alt text](/assets/images/)
 
 
 ### 4. Finals 
