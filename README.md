@@ -81,8 +81,9 @@ The table below breaks up the retake data by unit and improvement level.
 |  Unit 3|  37             | 35 | 14         | 6              | 8                  | 9             |
 |  Total |  70             | 148| 26         | 11             | 18                 | 14            |
 
+Again, Not many students took advantage of the oportunity to retake, but those who did, Most did better. YUou can also see a trend of more students opting in to retake further into the semester. 
 
-- Final grade before and after retake. 
+
 
 ![alt text](/assets/images/without_vs_with_retake_bar.jpg)
 
