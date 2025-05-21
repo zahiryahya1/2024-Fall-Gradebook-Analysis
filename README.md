@@ -96,7 +96,7 @@ Retakes Improved the class average by 1%
 
 
 ### 4. Finals 
-- finals score vs average test score. What is the delta? (did students do better on the final then usual?)
+
 - Number of Students who scored better on the final: 14
 - Number of students who scored worse on the final: 50
 - Number of students who scored worse on the final: 6
@@ -107,8 +107,8 @@ The Goal of practice assignments are to insentivise students to perform extra wo
 
 In total, 45 students students benifited and 25 students did not. However, practice has significantly impacted 15 students grades. 
 
-  - 5 students had decreased letter grade from a - to a +.
-  - 10 students had increased letter grade from a + to a -. 
+  - 5 students had decreased letter grade from - to +.
+  - 10 students had increased letter grade from + to -. 
 
 
 ## Recommendations
