@@ -111,10 +111,6 @@ In total, 45 students students benifited and 25 students did not. However, pract
   - 10 students had increased letter grade from + to -. 
 
 
-## Recommendations
-
-Based on the exploratory analysis, the following preliminary recommendations can be made:
-- 
 
 ## Clarifying Questions, Assumptions, and Caveats
 
@@ -122,11 +118,13 @@ Based on the exploratory analysis, the following preliminary recommendations can
 - Assignment types and categorizations were accurately labeled after restructuring.
 - Students put forth sincere effort on retakes and group quizzes.
 - The dataset is complete and captures all assignments, tests, and retakes for the grading period.
+- excel formulas are correct
 
-### Questions for Stakeholders:
-- 
-
-### Missing Information:
+### Questions:
+- Do students have time outside of school to complete assignments? 
+- How many low achieving students are on their phones during class?
+- what grade did students get in their previous math class?
+- How many other classes are students struggling in? 
 - 
 
 
