@@ -75,6 +75,7 @@ A large percent of students did not improve. In order to retake, students must c
 The table below breaks up the retake data by unit and improvement level. 
 
 |  Unit  |  Num of Retake  | No Growth  | Little  Growth | Meaningful Growth  | Large Growth  |
+|--------|-----------------|------------|----------------|--------------------|---------------|
 |  Unit 1|  13             | 3          | 1              | 4                  | 4             |
 |  Unit 2|  20             | 9          | 4              | 6                  | 1             |
 |  Unit 3|  37             | 14         | 6              | 8                  | 9             |
