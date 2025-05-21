@@ -72,11 +72,12 @@ above is a pie chart that looks at all retake scores and organizes scores based 
 - As you can see, just under 50% of students who retook scored over 5% better.
 A large percent of students did not improve. In order to retake, students must complete test corrections and 1 additional assignment of their choice. These requiremnts discurage non serious students from retake and also helps students learn from their mistakes and study a bit. Unfortinatly, not all students who retake are learning from their mistake. Students lack study, review, and self analysis skills. Unfortinatly there is not much time in the classroom for these, but something teachers should consider.
   
-Below is a table that further divides the retake scrores by unit.
+The table below breaks up the retake data by unit and improvement level. 
 
-[insert markdown talbe for each unit. ]
-
-
+|  Unit  |  Num of Retake  | No Growth  | Little  Growth | Meaningful Growth  | Large Growth  |
+|  Unit 1|  13             | 3          | 1              | 4                  | 4             |
+|  Unit 2|  20             | 9          | 4              | 6                  | 1             |
+|  Unit 3|  37             | 14         | 6              | 8                  | 9             |
 
 - Final grade before and after retake. 
 
