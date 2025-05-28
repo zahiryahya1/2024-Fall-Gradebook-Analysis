@@ -89,8 +89,8 @@ Again, Not many students took advantage of the oportunity to retake, but those w
 
 Comparing students final grades before and after retakes, you can see that students grades have increased. Some more than others. 
 
-  Average Final Grade Excluding Retakes: 74.22%	
-  Average Final Grade Including Retakes: 75.32%
+  - Average Final Grade Excluding Retakes: 74.22%
+  - Average Final Grade Including Retakes: 75.32%
 
 Retakes Improved the class average by 1%
 
